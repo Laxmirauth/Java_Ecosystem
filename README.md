@@ -8,6 +8,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 ## Table of Contents
 
 ### 1. Java Basics and Core Features (Days 1-15)
+
 1. Introduction to the Java ecosystem.
 2. Key features of Java 21 (or the latest version).
 3. The significance of the JVM in Java.
@@ -25,6 +26,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 15. Understanding Java’s multithreading basics.
 
 ### 2. Java Advanced Features (Days 16-30)
+
 16. Exploring the Java Module System (Project Jigsaw).
 17. The role of the Fork/Join framework.
 18. Streams API: Intermediate and terminal operations.
@@ -42,6 +44,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 30. Using virtual threads for concurrency (Project Loom).
 
 ### 3. Java Frameworks and Libraries (Days 31-45)
+
 31. Introduction to the Spring Framework.
 32. Spring Boot: What makes it popular?
 33. Dependency Injection in Spring.
@@ -59,6 +62,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 45. Using Apache Kafka with Java applications.
 
 ### 4. Tools and Best Practices (Days 46-60)
+
 46. Introduction to Maven and Gradle: Build tools for Java.
 47. Managing dependencies effectively in Java projects.
 48. Writing clean code in Java: Tips and examples.
@@ -76,6 +80,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 60. Avoiding memory leaks in Java applications.
 
 ### 5. Java in the Cloud (Days 61-70)
+
 61. Deploying Java applications to AWS using Elastic Beanstalk.
 62. Running Spring Boot applications in Docker containers.
 63. Kubernetes basics for Java developers.
@@ -88,6 +93,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 70. Using OpenAPI/Swagger for documenting REST APIs.
 
 ### 6. Java Security (Days 71-75)
+
 71. Secure coding practices in Java.
 72. Authentication and authorization with Spring Security.
 73. OWASP top 10 vulnerabilities and Java-specific fixes.
@@ -95,6 +101,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 75. SSL/TLS integration in Java applications.
 
 ### 7. Java and Databases (Days 76-80)
+
 76. Connecting Java applications to MySQL using JDBC.
 77. Introduction to the H2 database for testing.
 78. Writing efficient SQL queries with JPA Criteria API.
@@ -102,6 +109,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 80. Implementing caching with Redis in Spring Boot.
 
 ### 8. Interview Preparation (Days 81-85)
+
 81. Common Java interview questions and answers.
 82. Explaining JVM, JRE, and JDK in interviews.
 83. How to explain multithreading concepts in an interview.
@@ -109,6 +117,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 85. Mock interview experience sharing.
 
 ### 9. Real-World Case Studies (Days 86-95)
+
 86. Solving common problems with Java Streams.
 87. Refactoring legacy Java code for better performance.
 88. Debugging a memory leak in a Java application.
@@ -121,6 +130,7 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 95. Using Java for a multilingual application (English-Arabic).
 
 ### 10. Final Week (Days 96-100)
+
 96. Reflecting on 100 days of posting: Lessons learned.
 97. The future of Java: Emerging trends.
 98. Why Java is still relevant in 2025.
@@ -128,5 +138,6 @@ Welcome to my **100 Days of Java** series! This repository is dedicated to shari
 100. Summarizing the Java ecosystem and its impact on modern development.
 
 ---
+
 
 
